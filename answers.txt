@@ -11,3 +11,8 @@ Answer: One example is with weather forecasting since AI models built on data sc
 can more accurately predict the affects of large sclae weather veents such as hurricanes
 compared tp physics based models and can in turn help with agriculture and a lot of other
 areas. 
+
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: Merging works by showing the history of the project in branches while rebasing works linearly. 
+Because of this merging shows history as it happened while rebasing rewrites it. 
