@@ -16,3 +16,8 @@ Q3: What is the difference between Merging and Rebasing?
 
 Answer: Merging works by showing the history of the project in branches while rebasing works linearly. 
 Because of this merging shows history as it happened while rebasing rewrites it. 
+
+Q4: What are you looking forward to this semester?
+
+Answer: I'm looking forward to the group project and just learning more about how data science and AI are
+related and can help in other fields. 
