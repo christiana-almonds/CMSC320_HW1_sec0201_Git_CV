@@ -1,0 +1,6 @@
+Q2: What field could data science be applied to? Give an Example.
+
+Answer: One example is with weather forecasting since AI models built on data science
+can more accurately predict the affects of large sclae weather veents such as hurricanes
+compared tp physics based models and can in turn help with agriculture and a lot of other
+areas. 
