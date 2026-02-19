@@ -4,3 +4,10 @@ Answer: Github is a well known platform that is easy to use and many of us might
 It is also especially good for collaboration and experimentation due to the ability to make branches-  
 making it possible for group members work on different parts at the same time and then discard or merge 
 them at the end.
+
+Q2: What field could data science be applied to? Give an Example.
+
+Answer: One example is with weather forecasting since AI models built on data science
+can more accurately predict the affects of large sclae weather veents such as hurricanes
+compared tp physics based models and can in turn help with agriculture and a lot of other
+areas. 
